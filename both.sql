@@ -1,0 +1,16 @@
+create table Movie(id int primary key, title varchar(100), year int, rating varchar(10), company varchar(50));
+load data local infile 'movie.del' into table Movie fields terminated by ',' optionally enclosed by '"';
+create table Actor(id int primary key, last varchar(20), first varchar(20), sex varchar(6), dob date, dod date);
+load data local infile 'actor1.del' into table Actor fields terminated by ',' optionally enclosed by '"';
+load data local infile 'actor2.del' into table Actor fields terminated by ',' optionally enclosed by '"';
+load data local infile 'actor3.del' into table Actor fields terminated by ',' optionally enclosed by '"';
+create table Director(id int primary key, last varchar(20), first varchar(20), dob date, dod date);
+load data local infile 'director.del' into table Director fields terminated by ',' optionally enclosed by '"';
+create table MovieGenre(mid int, genre varchar(20));
+load data local infile 'moviegenre.del' into table MovieGenre fields terminated by ',' optionally enclosed by '"';
+create table MovieDirector(mid int, did int);
+load data local infile 'moviedirector.del' into table MovieDirector fields terminated by ',' optionally enclosed by '"';
+create table MovieActor(mid int, aid int, role varchar(50));
+load data local infile 'movieactor1.del' into table MovieActor fields terminated by ',' optionally enclosed by '"';
+load data local infile 'movieactor2.del' into table MovieActor fields terminated by ',' optionally enclosed by '"';
+create table Review(name varchar(20), time datetime, mid int, rating int, comment text);
