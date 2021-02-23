@@ -1,0 +1,661 @@
+11,"Stanford, CA",USA
+12,Copenhagen,Denmark
+13,Haifa,Israel
+14,Cambridge,United Kingdom
+15,London,United Kingdom
+16,"Cambridge, MA",USA
+17,Beshasha,Ethiopia
+18,Rehovot,Israel
+19,"Baltimore, MD",USA
+20,Berlin,Germany
+21,Munich,Germany
+22,Göttingen,Germany
+23,Buenos Aires,Argentina
+24,"Pasadena, CA",USA
+25,Sapporo,Japan
+26,Nagoya,Japan
+27,"Washington, DC",USA
+28,"Santa Barbara, CA",USA
+29,Banbury,United Kingdom
+30,"Philadelphia, PA",USA
+31,"Chicago, IL",USA
+32,Mondovi,French Algeria
+33,Louvain,Belgium
+34,Ulm,Germany
+35,Orsay,France
+36,Tramelan,Switzerland
+37,Bulawayo,Southern Rhodesia
+38,Kaysersberg,Germany
+39,Szeged,Hungary
+40,Heidelberg,Germany
+41,Moscow,USSR
+42,Kislovodsk,Russia
+43,"Argonne, IL",USA
+44,"New York, NY",USA
+45,Zamora,Mexico
+46,"Long Island, New York, NY",USA
+47,Vienna,Austria
+48,"Dallas, TX",USA
+49,Paris,France
+50,Zurich,Switzerland
+51,Wingham,Canada
+52,"Medford, MA",USA
+53,Uppsala,Sweden
+54,"Boston, MA",USA
+55,Santiniketan,India
+56,Manchester,United Kingdom
+57,Ainay-le-Château,France
+58,"Los Angeles, CA",USA
+59,Moscow,Russia
+60,Hampstead,United Kingdom
+61,"New Orleans, LA",USA
+62,"Princeton, NJ",USA
+63,"Urbana, IL",USA
+64,Fowey,United Kingdom
+65,Mit Abu al-Kawm,Egypt
+66,Bristol,United Kingdom
+67,Kibbutz Sde-Nahum,British Mandate of Palestine
+68,Nantes,France
+69,Stockholm,Sweden
+70,"Holmdel, NJ",USA
+71,Kingston,Canada
+72,"Wooster, OH",USA
+73,Glasgow,Scotland
+74,"Brooklyn, NY",USA
+75,"Mount Vernon, NY",USA
+76,Helsinki,Finland
+77,Gothenburg,Sweden
+78,Grenå,Denmark
+79,Ostend,Belgium
+80,Rangoon,Burma
+81,Karcag,Hungary
+82,"Chapel Hill, NC",USA
+83,"Honolulu, HI",USA
+84,"Cold Spring Harbor, NY",USA
+85,"Omaha, NE",USA
+86,Perth,Australia
+87,"La Jolla, CA",USA
+88,Caracas,Venezuela
+89,Halmstad,Sweden
+90,Groningen,the Netherlands
+91,Stuttgart,Germany
+92,Prague,Austrian Empire
+93,Klippan,Sweden
+94,"Hamilton, Ontario",Canada
+95,Trelleck,United Kingdom
+96,Belfast,Northern Ireland
+97,Kvikne,Norway
+98,"Duluth, MN",USA
+99,Cardiff,United Kingdom
+100,"Little Falls, MN",USA
+101,Weston Creek,Australia
+102,"Fort Worth, TX",USA
+103,Glencorse,Scotland
+104,Pavia,Italy
+105,Iria Flavia,Spain
+106,Cologne,Germany
+107,"St. Louis, MO",USA
+108,Liestal,Switzerland
+109,Hamburg,Germany
+110,"Boulder, CO",USA
+111,Geneva,Switzerland
+112,Wailacama,East Timor
+113,"San Diego, CA",USA
+114,Tonbridge,United Kingdom
+115,Bahia Blanca,Argentina
+116,"Halifax, Nova Scotia",Canada
+117,Sèvres,France
+118,"Marietta, OH",USA
+119,Edinburgh,United Kingdom
+120,"Greenville, SC",USA
+121,"Wilmington, DE",USA
+122,Hong Kong,China
+123,"Sacramento, CA",USA
+124,Tunis,Tunisia
+125,"Hofei, Anhwei",China
+126,Utrecht,the Netherlands
+127,"Bethesda, MD",USA
+128,Thames Ditton,United Kingdom
+129,Stavanger,Norway
+130,Tübingen,Germany
+131,Nicosia,Cyprus
+132,Constantine,French Algeria
+133,Tananarive,Madagascar
+134,"Pittsburgh, PA",USA
+135,"Bloomington, IL",USA
+136,Swansea,United Kingdom
+137,"Olympus, TN",USA
+138,Ghent,Belgium
+139,"Worcester, MA",USA
+140,Śeteniai,Russian Empire
+141,"Yonkers, NY",USA
+142,Jönköping,Sweden
+143,Aarhus,Denmark
+144,Tel Aviv,British Mandate of Palestine
+145,Rome,Italy
+146,Henan,China
+147,"Berkeley, CA",USA
+148,Leggiuno-Sangiano,Italy
+149,"Windsor, ON",Canada
+150,"Seattle, WA",USA
+151,"Milwaukee, WI",USA
+152,"Ithaca, NY",USA
+153,Bukavu,Belgian Congo
+154,Budapest,Hungary
+155,Gravesend,United Kingdom
+156,Castries,Saint Lucia
+157,Klerksdorp,South Africa
+158,"Orange, NJ",USA
+159,"Cleveland, OH",USA
+160,"Chester, VT",USA
+161,Waterloo,Canada
+162,Kermanshah,Persia
+163,Oxford,United Kingdom
+164,"Aberdeen, WA",USA
+165,"San José, CA",USA
+166,"Mart, TX",USA
+167,"Taylorville, IL",USA
+168,"Nashville, TN",USA
+169,Shanghai,China
+170,"Evanston, IL",USA
+171,Munich,Bavaria
+172,Trondheim,Norway
+173,"Hume, IL",USA
+174,"Wilkes-Barre, PA",USA
+175,"Rochester, MN",USA
+176,"Minneapolis, MN",USA
+177,Bradford,United Kingdom
+178,"Lansing, IA",USA
+179,"Redondo Beach, CA",USA
+180,Lisbon,Portugal
+181,"West Lafayette, IN",USA
+182,Tabuse,Japan
+183,Mürzzuschlag,Austria
+184,Ruse,Bulgaria
+185,"Methuen, MA",USA
+186,Sighet,Romania
+187,"Clinton, NY",USA
+188,"Tempe, AZ",USA
+189,"San Francisco, CA",USA
+190,Monrovia,Liberia
+191,Euskirchen,Prussia
+192,Marburg,Germany
+193,Tivoli,Italy
+194,"Jamaica Plain, MA",USA
+195,Juvisy-sur-Orge,France
+196,"Ashburn, VA",USA
+197,"Palo Alto, CA",USA
+198,"South Bend, IN",USA
+199,Karlbo,Sweden
+200,"Oak Park, IL",USA
+201,"Canton, SD",USA
+202,Nelson,New Zealand
+203,Dublin,Ireland
+204,Milan,Austrian Empire
+205,Landsberg,Germany
+206,Budapest,Austria-Hungary
+207,Genoa,Italy
+208,Svartbjörnsbyn,Sweden
+209,"Irvine, CA",USA
+210,Johannesburg,South Africa
+211,Strasbourg,Germany
+212,"Houston, TX",USA
+213,Gjesdal,Norway
+214,Northampton,United Kingdom
+215,Harborne,United Kingdom
+216,Brussels,Belgium
+217,Nancy,France
+218,Bordeaux,France
+219,"Potsdam, NY",USA
+220,Hämeenkyrö,Russian Empire
+221,Maillane,France
+222,"Auburn, AL",USA
+223,Toronto,Canada
+224,"Paterson, NJ",USA
+235,Rendcombe,United Kingdom
+235,Rendcombe,United Kingdom
+227,Eastbourne,United Kingdom
+228,Næstved,Denmark
+229,Kristiania,Norway
+230,Mannheim-Rheinau,Germany
+231,Amsterdam,the Netherlands
+232,Berlin-Dahlem,Germany
+233,Koenigsberg,Germany
+234,Graz,Austria
+235,Aracataca,Colombia
+236,Hollerich,Luxembourg
+237,Vicuña,Chile
+238,Ganzhou,China
+239,"Pottsville, PA",USA
+240,Todmorden,United Kingdom
+241,"New Haven, CT",USA
+242,"Wahoo, NE",USA
+243,"Uniontown, PA",USA
+244,"Bar Harbor, ME",USA
+245,Iasi,Romania
+246,"Murray Hill, NJ",USA
+247,"Yukon, FL",USA
+248,"Research Triangle Park, NC",USA
+249,"Rochester, NY",USA
+250,"Renton, WA",USA
+251,Columbia,USA
+252,Stainforth,United Kingdom
+253,Dabrovica,Poland
+254,Basel,Switzerland
+255,Dinant,Belgium
+256,Calais,France
+257,"Ann Arbor, MI",USA
+258,Den Helder,the Netherlands
+259,Rüschlikon,Switzerland
+260,Munster,Germany
+261,Bad Cannstatt,Germany
+262,Ottawa,Canada
+263,Bad Salzbrunn,Prussia
+264,Prague,Austria-Hungary
+265,Smyrna,Ottoman Empire
+266,Val di Castello,Tuscany
+267,Milan,Italy
+268,"Ishpeming, MI",USA
+269,Newark,United Kingdom
+270,Dhaka,Bangladesh
+271,"Nuoro, Sardinia",Italy
+272,Bologna,Italy
+273,Skattungbyn,Sweden
+274,Waltersdorf,Germany
+275,Danzig,Free City of Danzig
+276,"Lidingö, Stockholm",Sweden
+277,Halle,Germany
+278,"Madison, WI",USA
+279,Reykjavik,Iceland
+280,Norrköping,Sweden
+281,Hoechst,Germany
+282,Görlitz,Prussia
+283,Sheffield,United Kingdom
+284,Breisgau,Germany
+285,Augsburg,Germany
+286,Gelsenkirchen,Germany
+287,"Walkerton, IN",USA
+288,"Oceanside, NY",USA
+289,Jämshög,Sweden
+290,Frankfurt-on-the-Main,Germany
+291,Leiden,the Netherlands
+292,Buchs,Switzerland
+293,Pforzheim,Germany
+294,Arnhem,the Netherlands
+295,Fredericia,Denmark
+296,Fürth,Germany
+297,Neudorf,Canada
+298,Wola Okrzejska,Poland
+299,"Buffalo, NY",USA
+300,Weimar,Germany
+301,"Platteville, WI",USA
+302,Calw,Germany
+303,"Bloomington, IN",USA
+304,Worms,Germany
+305,"Nitzkydorf, Banat",Romania
+306,Tokyo,Japan
+307,Kyoto,Japan
+308,Hamamatsu,Japan
+309,Frankfurt-on-the-Main,West Germany
+310,Linköping,Sweden
+311,Vladivostok,Russia
+312,Leningrad,Russia
+313,Kharkov,Russian Empire
+314,"Austin, TX",USA
+315,"Schenectady, NY",USA
+316,Leoncin,Russian Empire
+317,Chiran,Japan
+318,Rymanow,Austria-Hungary
+319,Voronezh,Russia
+320,St. Petersburg,Russia
+321,Bergen,Norway
+322,Dolac,Bosnia
+323,Neuenkirchen,West Germany
+324,Cape Town,South Africa
+325,"York, PA",USA
+326,"Providence, RI",USA
+327,Adelaide,Australia
+328,Cheetham Hill,United Kingdom
+329,Madrid,Spain
+330,"Jefferson City, MO",USA
+331,Bad Kissingen,Germany
+332,Rotterdam,the Netherlands
+333,Lausanne,Switzerland
+334,Minnigaff,Scotland
+335,"Canton, MA",USA
+336,Liverpool,United Kingdom
+337,Swanage,United Kingdom
+338,"Haverhill, MA",USA
+339,"Fairfax, VA",USA
+340,"Alice, TX",USA
+341,Winnipeg,Canada
+342,"Council, ID",USA
+343,"Champaign, IL",USA
+344,the Hague,the Netherlands
+345,"Cedarville, IL",USA
+346,Prague,Czechoslovakia
+347,Lille,France
+348,Toulouse,France
+349,Troyes,France
+350,Nice,France
+351,Strasbourg,France
+352,"Maine, ME",USA
+353,Lemvig,Denmark
+354,"Plains, GA",USA
+355,Siegen,Germany
+356,"Putney, VT",USA
+357,Zusamaltheim,Germany
+358,Silkeborg,Denmark
+359,Greifswald,Germany
+360,Farsø,Denmark
+361,"Richmond, VA",USA
+362,Jena,Germany
+363,"Greenbelt, MD",USA
+364,"Harwell, Berkshire",United Kingdom
+365,Brighton,United Kingdom
+366,Halifax,United Kingdom
+367,"West Hartford, CT",USA
+368,"Bluefield, WV",USA
+369,Kingston Hill,United Kingdom
+370,"Middletown, CT",USA
+371,Londonderry,Northern Ireland
+372,"Denver, CO",USA
+373,Cluny,Scotland
+374,Burnham-on-Sea,United Kingdom
+375,Warwick,United Kingdom
+376,"Livingston Manor, NY",USA
+377,Beckenham,United Kingdom
+378,"Salinas, CA",USA
+379,Dili,East Timor
+380,Azinhaga,Portugal
+381,Leningrad,USSR
+382,"Milford, MA",USA
+383,"Gary, IN",USA
+384,"Sumter, SC",USA
+385,Warsaw,Russian Empire
+386,"Montclair, NJ",USA
+387,Bogotá,Colombia
+388,Moguer,Spain
+389,Echternach,Luxembourg
+390,Soignies,Belgium
+391,Wels,Austria
+392,Lund,Sweden
+393,Vidisha,India
+394,Roholte,Denmark
+395,Vienna,Austrian Empire
+396,Mülheim/Ruhr,Germany
+397,"Lenoir, NC",USA
+398,Nagasaki,Japan
+399,"Bloomsburg, PA",USA
+400,Nara,Japan
+401,"Waltham, MA",USA
+402,Uchiko,Japan
+403,Mokpo,Korea
+404,"Logan, UT",USA
+405,Schroda,German-occupied Poland
+406,Lom,Norway
+407,Kumasi,Gold Coast
+408,Toyama City,Japan
+409,Neisse,Germany
+410,Altenberg; Grünau im Almtal,Austria
+411,Nizhny Tagil,Russia
+412,Königshütte,Prussia
+413,Aarberg,Switzerland
+414,Nam Ha province,Vietnam
+415,Popowo,Poland
+416,"Yorktown Heights, NY",USA
+417,"Batavia, IL",USA
+418,St. Petersburg,Russian Empire
+419,Vukovar,Austria-Hungary
+420,Baku,Russian Empire
+431,"Portland, OR",USA
+431,"Portland, OR",USA
+423,Changchun,China
+424,Kilmaurs,Scotland
+425,"Langford Grove, Maldon, Essex",United Kingdom
+426,Dieppe,France
+427,Grenoble,France
+428,Autun,France
+429,Chabris,France
+430,Bremen,Germany
+431,"Agrigento, Sicily",Italy
+432,Tsukuba,Japan
+433,Mingora,Pakistan
+434,Bochum,Germany
+435,Örebro,Sweden
+436,Kattowitz,Germany
+437,Mexico City,Mexico
+438,"Salt Lake City, UT",USA
+439,Arequipa,Peru
+440,"Atlanta, GA",USA
+441,Waalwijk,the Netherlands
+442,Viipuri,Finland
+443,Toyohashi,Japan
+444,Pongaroa,New Zealand
+445,Breslau,Germany
+446,Kiel,Schleswig
+447,Pretoria,South Africa
+448,Pfaffendorf,Germany
+449,Fosnavåg,Norway
+450,"St. Paul, MN",USA
+451,"Mountain View, CA",USA
+452,Brest Litovsk,Russian Empire
+453,Edmonton,Canada
+454,"Kansas City, MO",USA
+455,Vancouver,Canada
+456,"Miami, FL",USA
+457,Guatemala City,Guatemala
+458,Privolnoye,USSR
+459,Veshenskaya,Russia
+460,Gaomi,China
+461,Cairo,Egypt
+462,Uskup,Ottoman Empire
+463,Chittagong,British India
+464,"Greenwich, CT",USA
+465,Kojo,Iraq
+466,Springs,South Africa
+467,Trönö,Sweden
+468,Qunu,South Africa
+469,"Elizabeth, NJ",USA
+470,Dordrecht,the Netherlands
+471,Usman,USSR
+472,Thorshavn,Faroe Islands (Denmark)
+473,Saratov,Russia
+474,"Cresco, IA",USA
+475,Birmingham,United Kingdom
+476,Oslo,Norway
+477,Iráklion,Crete
+478,Sulechów,Poland
+479,"Superior, WI",USA
+480,Istanbul,Turkey
+481,"Massachusetts, MA",USA
+482,Heredia,Costa Rica
+483,Kiel,Germany
+484,Hanover,Germany
+485,Sorau,Germany
+486,Freiburg im Breisgau,Germany
+487,Dewsbury,United Kingdom
+488,Parral,Chile
+489,Växjö,Sweden
+490,"Sidney, OH",USA
+491,"Provo, UT",USA
+492,Strehlen,Prussia
+493,La Flèche,France
+494,Berlin,Prussia
+495,Mainz,Germany
+496,"Sterling, IL",USA
+497,"Durham, NC",USA
+498,Olten,Switzerland
+499,"Detroit, MI",USA
+500,Carcassonne,France
+501,Novaya Chigla,Russia
+502,"Hillsboro, WV",USA
+503,Bern,Switzerland
+504,"Northfield, MN",USA
+505,"Memphis, TN",USA
+506,Maastricht,the Netherlands
+507,Jülich,Germany
+508,Griffen,Austria
+509,Newcastle upon Tyne,United Kingdom
+510,Rio de Janeiro,Brazil
+511,Bodmin,United Kingdom
+512,"Indianapolis, IN",USA
+513,Pressburg,Hungary
+514,"Falmouth, KY",USA
+515,Zonnemaire,the Netherlands
+516,Blankenburg,Germany
+517,Pugwash,Canada
+518,Kronshtadt,Russian Empire
+519,Calcutta,India
+520,Helsinki,Russian Empire
+521,Montreal,Canada
+522,Fareham,United Kingdom
+523,Garching,Germany
+524,Bonn,Germany
+525,Catanzaro,Italy
+526,Bayonne,France
+527,"Akron, OH",USA
+528,"Medicine Hat, Alberta",Canada
+529,"Springfield, MA",USA
+530,"East Orange, NJ",USA
+531,Edinburgh,Scotland
+532,"Beverly, MA",USA
+533,Vienna,Austria-Hungary
+534,Bucksburn (Scotland),United Kingdom
+535,Winterthur,Switzerland
+536,"Berne, IN",USA
+537,Karlsruhe,Germany
+538,Aldea Chimel,Guatemala
+539,Turin,Italy
+540,Zloczov,Poland
+541,"Morrison, IL",USA
+542,"Visalia, CA",USA
+543,"Geneva, NE",USA
+544,"Yakima, WA",USA
+545,"Syracuse, NY",USA
+546,"Charleston, SC",USA
+547,Batley,United Kingdom
+548,"Possum Trot, KY",USA
+549,Martinsried,Germany
+550,Jerusalem,Israel
+551,Clausthal,Germany
+552,"Kingston, ON",Canada
+553,"Newburyport, MA",USA
+554,"Burlington, MA",USA
+555,Newton-le-Willows,United Kingdom
+556,Dijon,France
+557,Neuilly-sur-Seine,France
+558,Colchester,United Kingdom
+559,"Hartford, CT",USA
+560,Clamecy,France
+561,Willesden,United Kingdom
+562,Almora,India
+563,"Bronx, NY",USA
+564,Aurich,East Friesland
+565,Bombay,British India
+566,Kobe,Japan
+567,Pointe-à-Pitre,Guadeloupe Island
+568,Modica,Italy
+569,Petilla de Aragón,Spain
+570,Yamanashi Prefecture,Japan
+571,"Champaign-Urbana, IL",USA
+572,Casteldàwson,Northern Ireland
+573,Mårbacka,Sweden
+574,"New Brunswick, NJ",USA
+575,Casablanca,Morocco
+576,Luarca,Spain
+577,Vishneva,Poland
+578,Osaka,Japan
+579,Hamadan,Iran
+580,Buczacz,Austria-Hungary
+581,Ikata,Japan
+582,Kalundborg,Denmark
+583,Pinsk,Russian Empire
+584,"Sauk Centre, MN",USA
+585,Lochfield,Scotland
+586,Castries,British West Indies
+587,Leipzig,Germany
+588,Tiruchirappalli,India
+589,Melbourne,Australia
+590,Leicester,United Kingdom
+591,Wisbech,United Kingdom
+592,Uddingston,Scotland
+593,Dippenhall,United Kingdom
+594,Canberra,Australia
+595,Stroud,United Kingdom
+596,Leeds,United Kingdom
+597,Holbeach,United Kingdom
+598,Norwich,United Kingdom
+599,Lancashire,United Kingdom
+600,Nottingham,United Kingdom
+601,"Rufford, near Chesterfield",United Kingdom
+602,"Des Moines, IA",USA
+603,Arad,Romania
+604,Lahore,India
+605,Vik,Sweden
+606,Ivano-Frankivsk,Ukraine
+607,Germiston,South Africa
+608,Wloclawek,Poland
+609,Kashiwa,Japan
+610,Ta'izz,Yemen
+611,Taktser,Tibet
+612,Fleräng,Sweden
+613,Garding,Schleswig
+614,"Germantown, PA",USA
+615,"Arlington, SD",USA
+616,"College Park, MD",USA
+617,"Lexington, KY",USA
+618,Lübeck,Germany
+619,Neston,United Kingdom
+620,'s Graveland,the Netherlands
+621,Hertfordshire,United Kingdom
+622,"Lorain, OH",USA
+623,Skedsmo,Norway
+624,Beijing,China
+625,Chaguanas,Trinidad and Tobago
+626,"Merriman, NE",USA
+627,"Chidambaram, Tamil Nadu",India
+628,Olshammar,Sweden
+629,"Wichita, KS",USA
+630,Sevilla,Spain
+631,Innsbruck,Austria
+632,Cherbourg,France
+633,Sarajevo,Austria-Hungary
+634,Amoy,China
+635,Frauenfeld,Switzerland
+636,Oranienburg,Germany
+637,Briesen,Prussia
+638,Nyeri,Kenya
+639,"Ridgeville, IN",USA
+640,Gränichen,Switzerland
+641,Würzburg,Germany
+642,Lennep,Prussia
+643,Riga,Russian Empire
+644,Gaffken,Prussia
+645,"Grand Valley, CO",USA
+646,"Amherst, NS",Canada
+647,Semarang,"Java, Dutch East Indies"
+648,Wigton,United Kingdom
+649,"Madison, NJ",USA
+650,"Albuquerque, NM",USA
+651,"Gaithersburg, MD",USA
+652,"Pleasanton, CA",USA
+653,Niagara Falls,Canada
+654,"New Albany, MS",USA
+655,"Chevy Chase, MD",USA
+656,St. Columb Minor,United Kingdom
+657,"Taunton, MA",USA
+658,"Stoughton, WI",USA
+659,"Victoria, BC",Canada
+660,Woodstock,United Kingdom
+661,Bnin,Poland
+662,Kobiele Wielkie,Russian Empire
+663,Abeokuta,Nigeria
+664,Heidelberg,West Germany
+665,Lorenzkirch,Germany
+666,"Staunton, VA",USA
+667,Jerusalem,British Mandate of Palestine
+668,Fukuoka,Japan
+669,Hsinchu,Taiwan
+670,Rueil-Malmaison,France
+671,"Vitebsk, Belorussia",USSR

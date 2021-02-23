@@ -1,0 +1,707 @@
+2,Stanford University,11
+3,Niels Bohr Institute,12
+4,Technion - Israel Institute of Technology,13
+5,MRC Laboratory of Molecular Biology,14
+7,Imperial College,15
+8,Massachusetts Institute of Technology (MIT),16
+9,Weizmann Institute of Science,18
+11,Space Telescope Science Institute,19
+13,Berlin University,20
+14,Munich University,21
+15,Goettingen University,22
+16,California Institute of Technology (Caltech),24
+17,Hokkaido University,25
+19,Meijo University,26
+20,University of California,28
+21,University of Cambridge,14
+22,University of Pennsylvania,30
+23,University of Chicago,31
+24,Université Catholique de Louvain,33
+25,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,20
+27,Unit&eacute; Mixte de Physique CNRS/THALES,35
+28,Szeged University,39
+29,University of Heidelberg,40
+30,P.N. Lebedev Physical Institute,41
+31,Argonne National Laboratory,43
+32,Rockefeller Institute for Medical Research,44
+33,Carnegie Institution of Washington,46
+34,University of Texas Southwestern Medical Center at Dallas,48
+35,École Normale Supérieure,49
+36,University of Zurich,50
+37,Tufts University,52
+38,Uppsala University,53
+39,Institut Pasteur,49
+41,Harvard Business School,54
+42,Trinity College,14
+43,"Columbia University Division, Cardio-Pulmonary Laboratory, Bellevue Hospital",44
+44,University of Manchester,56
+45,Institut Pasteur,49
+46,University of California,58
+47,University College,15
+48,Veterans Administration Hospital,61
+49,Stanford University School of Medicine,11
+50,Princeton University,62
+51,University of Illinois,63
+52,University of Cambridge,14
+53,National Institute for Medical Research,15
+54,London University,15
+55,University of Southern California,58
+56,Uppsala University,53
+57,Bell Laboratories,70
+58,Bell Laboratories,70
+59,Queen's University,71
+60,University of Chicago,31
+61,London University,15
+62,Stanford University,11
+63,Stanford University,11
+64,University of Helsinki,76
+65,Göteborg University,77
+66,Copenhagen University,12
+67,Technion - Israel Institute of Technology,13
+68,University of North Carolina,82
+69,Cold Spring Harbor Laboratory,84
+71,California Institute of Technology (Caltech),24
+73,University of Western Australia,86
+74,The Scripps Research Institute,87
+75,The Institute for Cancer Research,30
+76,Harvard Medical School,54
+77,Nordita,12
+78,Massachusetts Institute of Technology (MIT),16
+79,Karolinska Institutet,69
+80,University of Groningen,90
+81,Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine),23
+82,Max-Planck-Institut für medizinische Forschung,40
+83,Stockholm School of Economics,69
+84,McMaster University,94
+85,University of Cambridge,14
+86,Stanford University School of Medicine,11
+87,Australian National University,101
+89,The Scripps Research Institute,87
+90,Rockefeller University,44
+91,Stanford Linear Accelerator Center,11
+92,University of Cambridge,14
+93,Pavia University,104
+95,I.G. Farbenindustrie A.G.,40
+96,Washington University,107
+97,California Institute of Technology (Caltech),24
+98,"University of Colorado, JILA",110
+99,CERN,111
+100,Johns Hopkins University School of Medicine,19
+101,Bristol University,66
+102,MRC Laboratory of Molecular Biology,14
+103,"University of Chicago, Ben May Laboratory for Cancer Research",31
+104,Bureau International des Poids et Mesures (International Bureau of Weights and Measures),117
+105,Edinburgh University,119
+106,Massachusetts Institute of Technology (MIT),16
+107,Du Pont,121
+109,Chinese University of Hong Kong,122
+110,Rockefeller University,44
+111,Institut Pasteur,124
+112,Sorbonne University,49
+113,Institute for Advanced Study,62
+114,Utrecht University,126
+115,National Institutes of Health,127
+117,Université Catholique de Louvain,33
+118,Max-Planck-Institut für Entwicklungsbiologie,130
+119,London School of Economics and Political Science,15
+120,Princeton University,62
+122,École Normale Supérieure,49
+123,Massachusetts Institute of Technology (MIT),16
+124,Bell Telephone Laboratories,44
+125,University of California,113
+126,Ghent University,138
+127,University of Massachusetts Medical School,139
+128,National Institutes of Health,127
+130,Aarhus University,143
+131,Technion - Israel Institute of Technology,13
+132,Istituto Superiore di Sanità (Chief Institute of Public Health),145
+133,Princeton University,62
+134,Princeton University,62
+135,University of California,147
+136,Johns Hopkins University School of Medicine,19
+137,Massachusetts Institute of Technology (MIT),16
+138,Harvard Medical School,54
+139,"University of California, Kavli Institute for Theoretical Physics",28
+140,University of Washington,150
+142,University of Colorado,110
+143,Cornell University,152
+144,Imperial College,15
+145,Imperial College,15
+146,Columbia University,44
+148,University of Cambridge,14
+149,University of California,147
+150,University of California,58
+151,University of Waterloo,161
+152,"University of Oxford, Royal Society",163
+153,Stanford University,11
+154,Washington University,107
+155,Harvard University,16
+156,Fred Hutchinson Cancer Research Center,150
+157,Harvard University,16
+158,Vanderbilt University,168
+159,University of Cambridge,14
+160,University of Washington,150
+161,Columbia University,44
+162,Landwirtschaftliche Hochschule (Agricultural College),20
+163,Norwegian University of Science and Technology (NTNU),172
+164,Saint Louis University,107
+165,California Institute of Technology (Caltech),24
+166,Mayo Clinic,175
+168,Federal Reserve Bank of Minneapolis,176
+169,Rockefeller Institute for Medical Research,44
+170,Department of Scientific and Industrial Research,15
+171,University of Washington,150
+172,University of California,147
+174,Neurological Institute,180
+175,Purdue University,181
+176,Harvard University,16
+178,Arizona State University,188
+179,University of California,189
+180,Berlin University,20
+181,Marburg University,192
+182,University of California,147
+183,Max Planck Unit for the Science of Pathogens,20
+184,Rome University,145
+185,"Janelia Research Campus, Howard Hughes Medical Institute",196
+186,"University of Colorado, JILA",110
+187,Princeton University,62
+188,Columbia University,44
+189,Institute for Advanced Study,62
+190,University of California,147
+191,Victoria University,56
+192,Trinity College,203
+193,University of Oxford,163
+194,Technical University,21
+195,Fritz-Haber-Institut der Max-Planck-Gesellschaft,20
+196,Max-Planck-Institut für Biophysikalische Chemie,22
+197,Berlin University,20
+198,Massachusetts Institute of Technology (MIT),16
+199,University of Chicago,31
+200,Princeton University,62
+201,Princeton University,62
+202,University of California,209
+203,Stanford University,11
+204,Max-Planck-Institut für Zellchemie,21
+205,Strasbourg University,211
+206,University of Texas Medical School at Houston,212
+208,University of California,28
+209,California Institute of Technology (Caltech),24
+210,MRC Laboratory of Molecular Biology,14
+211,University of Cambridge,14
+212,Massachusetts Institute of Technology (MIT),16
+213,Université Libre de Bruxelles,216
+214,Institut Pasteur,49
+215,"Regulation of Retroviral Infections Unit, Virology Department, Institut Pasteur",49
+216,Massachusetts Institute of Technology (MIT),16
+217,Institut du Radium,49
+218,Western Reserve University,159
+219,University of Toronto,223
+220,University of California,209
+221,University of Cambridge,14
+222,MRC Laboratory of Molecular Biology,14
+223,University of Oxford,163
+225,I.G. Farbenindustrie A.G.,230
+226,Groningen University,90
+227,Kaiser-Wilhelm-Institut (now Fritz-Haber-Institut) für physikalische Chemie und Electrochemie,232
+229,Massachusetts General Hospital,54
+230,Graz University,234
+231,Sorbonne University,49
+232,University of Chicago,31
+233,Imperial College,15
+234,Harvard University,16
+235,University of Heidelberg,40
+236,University of California,147
+237,University of Southern California,58
+238,California Institute of Technology (Caltech),24
+239,Jackson Laboratory,244
+240,Stockholm University,69
+241,"Yale University, School of Medicine",241
+242,Bell Laboratories,246
+243,University of California,147
+244,Wellcome Research Laboratories,248
+245,University of Rochester,249
+246,University of Chicago,31
+247,University of Missouri,251
+248,London University,15
+249,Royal Institution of Great Britain,15
+250,Harvard University,16
+251,Harvard University,16
+253,CERN,111
+254,Basel Institute for Immunology,254
+255,Rockefeller University,44
+256,University of California,147
+258,University of Michigan,257
+259,Utrecht University,126
+260,IBM Zurich Research Laboratory,259
+261,Munster University,260
+262,Fritz-Haber-Institut der Max-Planck-Gesellschaft,20
+263,National Research Council of Canada,262
+264,Wellcome Research Laboratories,248
+265,Washington University,107
+266,Institute of Technology,267
+267,University of California,147
+268,"Central Research Laboratories, EMI",15
+269,Johns Hopkins University,19
+270,Marconi Wireless Telegraph Co. Ltd.,15
+272,Howard Hughes Medical Institute,
+273,Swedish Gas-Accumulator Co.,276
+274,Halle University,277
+275,California Institute of Technology (Caltech),24
+276,University of Wisconsin,278
+277,Massachusetts Institute of Technology (MIT),16
+278,Johns Hopkins University School of Medicine,19
+279,Royal Institute of Technology,69
+280,Cornell University,152
+281,Technische Hochschule (Institute of Technology),21
+282,University of Washington,150
+283,Sheffield University,283
+284,University of Freiburg im Breisgau,284
+285,Stockholm University,69
+286,German Cancer Research Center,40
+287,Columbia University,44
+288,University of California School of Medicine,189
+289,City University of New York,44
+290,Max-Planck-Institut für Biophysik,290
+291,National Institutes of Health,127
+292,Leiden University,291
+293,IBM Zurich Research Laboratory,259
+294,Munich University,21
+295,Leiden University,291
+296,École Polytechnique,49
+297,Sorbonne University,49
+298,Polytechnic Institute,12
+299,Stanford University,11
+300,Massachusetts Institute of Technology (MIT),16
+301,The Medical Foundation of Buffalo,299
+302,Purdue University,181
+303,University of California,28
+304,Rockefeller Institute for Medical Research,44
+305,Carnegie Mellon University,134
+306,Indiana University,303
+308,"Staatliches Institut für makromolekulare Chemie (State Research Institute for Macromolecular Chemistry), Freiburg",284
+309,University of Tsukuba,306
+311,Columbia University,44
+312,Nagoya University,26
+313,Columbia University,44
+314,University of Wisconsin,278
+315,"Karolinska Institutet, Nobel Medical Institute",69
+317,P.N. Lebedev Physical Institute,41
+319,P.N. Lebedev Physical Institute,41
+320,Institut Pasteur,49
+322,University of Texas,314
+323,Institut du Radium,49
+324,General Electric Company,315
+325,University of California,209
+327,Nagoya University,26
+328,Columbia University,44
+329,Military Medical Academy,320
+330,General Electric Company,315
+331,IBM Zurich Research Laboratory,259
+332,University of Heidelberg,40
+333,University of California School of Medicine,189
+334,Brown University,326
+335,University of Cambridge,14
+336,Texas Instruments,48
+337,CERN,111
+340,Howard Hughes Medical Institute,
+341,Berlin University,20
+342,University of Lausanne,333
+343,Institut Pasteur,49
+344,University of Cambridge,14
+345,Cornell University,152
+346,Liverpool University,336
+347,University of Chicago,31
+348,University of Cambridge,14
+349,Yale University,241
+350,Goettingen University,22
+351,University of Chicago,31
+352,Center for Study of Public Choice,339
+354,University of Texas MD Anderson Cancer Center,212
+355,Princeton University,62
+356,Columbia University,44
+357,Yale University,241
+358,Harvard University,16
+359,The Netherlands School of Economics,332
+360,Polarographic Institute of the Czechoslovak Academy of Science,346
+361,Sorbonne University,49
+362,"Université de Paris, Laboratoire Immuno-Hématologie",49
+363,Toulouse School of Economics (TSE),348
+365,Collège de France,49
+366,University of Strasbourg,351
+367,University of Maine,352
+368,University of California,147
+369,Aarhus University,143
+370,Massachusetts Institute of Technology (MIT),16
+371,US Naval Research Laboratory,27
+372,Columbia University,44
+374,Howard Hughes Medical Institute,
+375,Amsterdam University,231
+376,Copenhagen University,12
+377,Greifswald University,359
+378,Virginia Commonwealth University,361
+379,University of Texas,314
+380,University of Illinois,63
+381,University of Illinois,63
+382,University of California,147
+383,MRC Laboratory of Molecular Biology,14
+384,NASA Goddard Space Flight Center,363
+385,University of Toronto,223
+386,Atomic Energy Research Establishment,364
+387,University of Sussex,365
+388,The Wellcome Trust Sanger Institute,14
+389,MRC Laboratory of Molecular Biology,14
+391,"Research Division of Infectious Diseases, Children's Medical Center",54
+392,Princeton University,62
+393,Rockefeller Institute for Medical Research,62
+394,Harvard University,16
+396,National Institute of Standards and Technology,110
+397,University of Toronto,223
+398,University College,15
+399,Northwestern University,170
+400,All Souls College,163
+401,The Wellcome Research Laboratories,377
+402,Brigham and Women's Hospital,54
+403,Columbia University,44
+404,Washington University,107
+405,Princeton University,62
+406,University of Texas Southwestern Medical Center at Dallas,48
+407,University of Wisconsin,278
+408,University of Strasbourg,351
+409,Brussels University,216
+410,Harvard University,16
+411,National Institutes of Health,127
+412,Vienna University,47
+413,IBM Zurich Research Laboratory,259
+414,Uppsala University,53
+415,Rockefeller Institute for Medical Research,44
+416,Zoologisches Institut der Universität München,21
+417,Max-Planck-Institut für Kohlenforschung (Max-Planck-Institute for Carbon Research),396
+418,Rockefeller University,44
+419,Kyoto University,307
+420,Cornell University,152
+421,Harvard University,16
+423,California Institute of Technology (Caltech),24
+424,Max-Planck-Institut für Festkörperforschung,91
+425,Shimadzu Corp.,307
+426,Harvard University,16
+427,"Konrad-Lorenz-Institut der Österreichischen Akademie der Wissen­schaften, Forschungsstelle für Ethologie",410
+428,University of Manchester,56
+429,Cologne University,106
+431,The Scripps Research Institute,87
+432,Yale University,241
+433,University of Chicago,31
+434,Victoria University,56
+435,University of Pennsylvania,30
+436,Fred Hutchinson Cancer Research Center,150
+437,IBM Thomas J. Watson Research Center,416
+438,Fermi National Accelerator Laboratory,417
+439,Brown University,326
+440,University of Minnesota,176
+441,Academy of Sciences,41
+442,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),50
+443,Academy of Sciences,41
+444,Fred Hutchinson Cancer Research Center,150
+445,California Institute of Technology (Caltech),24
+446,California Institute of Technology (Caltech),24
+447,University of California,58
+448,Royal Institution of Great Britain,15
+449,University of Cambridge,14
+450,"Sorbonne University, Institut Henri Poincaré",49
+451,University of California School of Medicine,58
+452,University of Grenoble,427
+453,Sorbonne University,49
+454,World Foundation for AIDS Research and Prevention,49
+455,University of California,147
+456,Institute for Biochemical Research,23
+457,"Binghamton University, State University of New York",44
+458,High Energy Accelerator Research Organization (KEK),432
+459,Max-Planck-Institut für Physikalische Chemie,22
+460,Uppsala University,53
+461,University of California,113
+462,Sorbonne University,49
+463,Massachusetts Institute of Technology (MIT),16
+465,Howard Hughes Medical Institute,
+466,National Institutes of Health,127
+467,Columbia University,44
+469,Harvard University,16
+470,Stanford University,11
+471,National Institute of Environmental Health Sciences,248
+472,University of Cambridge,14
+473,University of Tokyo,306
+474,École Nationale Supérieur des Mines de Paris,49
+475,London University,15
+476,Edinburgh University,119
+477,California Institute of Technology (Caltech),24
+478,MRC Laboratory of Molecular Biology,14
+479,Berlin University,20
+480,"Laboratories of the Division of Medicine and Public Health, Rockefeller Foundation",44
+481,Frankfurt-on-the-Main University,290
+482,Norwegian University of Science and Technology (NTNU),172
+483,University of California,147
+484,"Digital Pathways, Inc.",451
+485,University of Chicago,31
+486,University of Alberta,453
+487,Harvard University,16
+488,Stanford University School of Medicine,11
+490,Howard Hughes Medical Institute,
+491,University of Texas Southwestern Medical Center at Dallas,48
+492,University of British Columbia,455
+493,Rockefeller University,44
+494,University of Geneva,111
+495,University of Chicago,31
+496,California Institute of Technology (Caltech),24
+497,Long Term Capital Management,464
+498,Columbia University,44
+499,Harvard University,16
+500,P.N. Lebedev Physical Institute,41
+501,Copenhagen University,12
+502,Basel Institute for Immunology,254
+503,Finsen Medical Light Institute,12
+504,University of Oxford,163
+506,Lomonosov Moscow State University,41
+507,Harvard University,16
+508,Birmingham University,475
+509,University of Oslo,476
+510,University of California,147
+511,Harvard University,16
+512,University of North Carolina,82
+514,Boston University Medical School,481
+515,Kiel University,483
+516,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Chemie,232
+517,Graz University,234
+518,Kiel University,483
+519,Carnegie Institute of Technology,134
+520,Goettingen University,22
+521,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie,232
+522,University of California,147
+523,London University,15
+524,Victoria University,56
+525,Massachusetts Institute of Technology (MIT),16
+526,University of Cambridge,14
+527,Stanford University,11
+528,University of Illinois,63
+529,University of California,58
+531,Königliches Institut für experimentelle Therapie (Royal Institute for Experimental Therapy),290
+532,Rockefeller University,44
+533,Max-Planck-Institut für Chemie,495
+534,Stanford University,11
+535,University of Zurich,50
+536,Princeton University,62
+537,NYU Stern School of Business,44
+539,Duke University School of Medicine,497
+540,Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.),254
+541,Stanford University,11
+542,Toulouse University,348
+543,P.N. Lebedev Physical Institute,41
+544,Harvard University,16
+545,Massachusetts Institute of Technology (MIT),16
+546,Johns Hopkins University School of Medicine,19
+547,St. Jude Children's Research Hospital,505
+549,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,20
+550,Forschungszentrum J&uuml;lich,507
+551,University of Edinburgh,119
+552,University College,15
+553,Glynn Research Laboratories,511
+554,Rockefeller University,44
+555,Mayo Clinic,175
+556,Bell Telephone Laboratories,246
+557,Kiel University,483
+558,"Massachusetts Institute of Technology (MIT), Center for Cancer Research",16
+559,École municipale de physique et de chimie industrielles (Municipal School of Industrial Physics and Chemistry),49
+560,Collège de France,49
+561,Amsterdam University,231
+562,Columbia University,44
+563,Academy of Sciences,41
+564,University of Oslo,476
+565,Karolinska Institutet,69
+567,Massachusetts Institute of Technology (MIT),16
+568,Harvard University,16
+569,Rockefeller University,44
+571,Howard Hughes Medical Institute,
+572,University of Pennsylvania,30
+574,University of California,147
+575,Rheinische Friedrich-Wilhelms-Universität,524
+576,Imperial Cancer Research Fund Laboratory,15
+577,Associated Universities Inc.,27
+578,Columbia University,44
+579,Rice University,212
+580,Stanford University,11
+581,University of Delaware,
+582,University of Chicago,31
+583,MRC Laboratory of Molecular Biology,14
+584,New England Biolabs,532
+586,University of Heidelberg,40
+587,Rowett Research Institute,534
+588,California Institute of Technology (Caltech),24
+589,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),50
+590,Massachusetts Institute of Technology (MIT),16
+591,University of Cambridge,14
+592,Munich University,21
+593,Goettingen University,22
+594,Institute of Cell Biology of the C.N.R.,145
+595,Cornell University,152
+596,California Institute of Technology (Caltech),24
+597,Stanford University,11
+598,Stanford University,11
+599,Harvard University,16
+600,Vienna University,47
+601,Harvard University,16
+602,Cornell University,152
+603,University of Chicago,31
+604,Rice University,212
+605,New York University,44
+606,SUNY Health Science Center,74
+607,University of Cambridge,14
+608,California Institute of Technology (Caltech),24
+609,Stanford University,11
+610,Max-Planck-Institut für Biochemie,549
+611,"University of Jerusalem, Center for RationalityHebrew",550
+613,Duke University Medical Center,497
+614,Yale University,241
+615,Institute for Infectious Diseases,20
+616,Massachusetts Institute of Technology (MIT),16
+617,Columbia University,44
+618,University of Chicago,31
+619,University of Pennsylvania,30
+620,University of Chicago,31
+621,Cornell University,152
+622,Bell Laboratories,70
+624,Howard Hughes Medical Institute,
+625,University of Oxford,163
+626,University of Chicago,31
+627,Stanford University,11
+628,The Salk Institute,113
+629,University of Oxford,163
+630,California Institute of Technology (Caltech),24
+632,Howard Hughes Medical Institute,
+633,"University of Zurich, Institute of Experimental Immunology",50
+634,Institute of Physical Chemistry,14
+635,University of Chicago,31
+636,University College,336
+637,Veterans Administration Hospital,563
+638,Harvard University,16
+640,California Institute of Technology (Caltech),24
+641,California Institute of Technology (Caltech),24
+642,Princeton University,62
+643,Nagoya University,26
+644,Massachusetts Institute of Technology (MIT),16
+645,Massachusetts Institute of Technology (MIT),16
+646,Madrid University,329
+647,Kitasato University,306
+649,University of California,147
+650,Rutgers University,574
+652,École Normale Supérieure,49
+653,"New York University, College of Medicine",44
+654,"Harvard University, Lyman Laboratory",16
+656,Gladstone Institutes,189
+657,University of California,28
+658,Yale University,241
+659,Harvard University,16
+660,CERN,111
+661,Tokyo University of Education,306
+662,London University,15
+663,Princeton University,62
+664,University College,15
+665,Calcutta University,519
+666,University of Oxford,163
+667,University of Oxford,163
+668,Walter and Eliza Hall Institute for Medical Research,589
+669,University of Cambridge,14
+670,MRC Laboratory of Molecular Biology,14
+671,University of Sussex,365
+672,National Institute for Medical Research,15
+673,University of Oxford,163
+674,Northwestern University,170
+675,"London University, King's College Hospital Medical School",15
+676,Gurdon Institute,14
+677,Australian National University,594
+678,Cardiff University,99
+679,University of Cambridge,14
+680,Imperial Cancer Research Fund,15
+682,Francis Crick Institute,15
+683,"University of Nottingham, School of Physics and Astronomy",600
+684,University of Oxford,163
+685,University College,15
+686,Rockefeller University,44
+687,University of California School of Medicine,189
+688,Vanderbilt University School of Medicine,168
+690,German Cancer Research Center,40
+691,Stanford University,11
+692,Harvard University,16
+693,University of Chicago,31
+694,Karolinska Institutet,69
+695,Massachusetts Institute of Technology (MIT),16
+696,Stockholm University,69
+697,The Molecular Sciences Institute,147
+698,Basel University,254
+699,University of Tokyo,609
+700,Kyoto University,307
+701,Uppsala University,53
+702,Berne University,503
+704,Ludwig-Maximilians- Universität,21
+705,Harvard University,16
+706,University of Chicago,31
+708,Howard Hughes Medical Institute,
+709,"University of Maryland, Department of Economics and School of Public Policy",616
+711,Howard Hughes Medical Institute,
+712,California Institute of Technology (Caltech),24
+713,"Research Division of Infectious Diseases, Children's Medical Center",54
+714,New York University,44
+715,University of Colorado,110
+716,Imperial Cancer Research Fund,15
+717,Yale University,241
+719,Clare Hall Laboratory,621
+720,Harvard Medical School,54
+722,"Yukawa Institute for Theoretical Physics (YITP), Kyoto University",307
+723,University of Oslo,476
+724,Columbia University,44
+725,China Academy of Traditional Chinese Medicine,624
+726,Karolinska Institutet,69
+727,Princeton University,62
+728,MRC Laboratory of Molecular Biology,14
+729,George Mason University,339
+730,Innsbruck University,631
+731,Nancy University,217
+732,Cornell University,152
+733,P.N. Lebedev Physical Institute,59
+734,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),50
+735,"Harvard University, Biological Laboratories",16
+736,Bell Telephone Laboratories,246
+737,University of Zurich,50
+738,University of California,28
+740,Max-Planck-Institut für medizinische Forschung,40
+741,Berlin University,20
+742,Harvard University,16
+743,Rockefeller Institute for Medical Research,62
+744,Biozentrum der Universität,254
+745,Mainz University,495
+746,Leipzig University,587
+747,Munich University,21
+748,Leipzig University,587
+749,Würzburg University,641
+750,University of California,58
+751,Bell Laboratories,246
+752,Leiden University,291
+753,California Institute of Technology (Caltech),24
+754,"Semiconductor Laboratory of Beckman Instruments, Inc.",451
+755,University College,15
+756,Drew University,649
+757,Yale University,241
+758,National Institute of Standards and Technology,651
+759,Stanford University,11
+760,University of California,147
+761,Stanford University,11
+765,Brigham and Women's Hospital,54
+766,Rockefeller University,44
+767,Harvard University,16
+769,Peter Brent Brigham Hospital,54
+770,Columbia University,44
+771,Stanford University,11
+772,Massachusetts Institute of Technology (MIT),16
+773,University of Bonn,524
+774,Princeton University,62
+775,"Enrico Fermi Institute, University of Chicago",31
+776,Tokyo Institute of Technology,306
+777,University of California,147
+778,Institut Français du Pétrole,670
+779,A.F. Ioffe Physico-Technical Institute,320
